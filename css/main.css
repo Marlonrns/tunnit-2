@@ -16,9 +16,6 @@ li {
 .lower {
   width: 43%
 }
-.arrow {
-  width: 3px
-}
 .logon {
   border-right: 500px;
 }
@@ -117,12 +114,6 @@ left: -485px;
 .Nuke {
   color: white
 }
-.search {
-      border-style: solid
-    }
-.search {
-  border-width: 1px
-}
 .maintext {
   color: white
 }
@@ -151,10 +142,3 @@ left: -485px;
   .AI {
     font-style: italic;
   }
-}
-.AI {
-  font-style: italic;
-}
-.AI {
-  font-style: italic;
-}
