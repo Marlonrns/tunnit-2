@@ -28,27 +28,6 @@ li {
       float: right;
       font-family: fantasy;
 }
-.arrow {
-  max-width: 3px;
-  height: auto;
-}
-.onetoarrow {
-  justify-content: space-between;
-  padding-left: 4000px;
-  position: relative;
-}
-.onetwo {
-  display: flex;
-}
-.readmorearrow {
-  height: 20px
-}
-.lower {
-  color: white
-}
-.lower {
-    right: 800px
-}
 .AI {
   position: relative;
 top: 25px;
@@ -149,28 +128,29 @@ left: -485px;
 }
 .maintext {
   font-family: fantasy;
-}
-.Nuke {
-    position: relative;
-    top: 17px;
-    left: 1200px;
-    font-family: monospace;
-    color: black
-}
-.Nuke {
-  Border-color: white
-}
-.Nuke {
-border-style: solid
-}
-.Nuke {
-  Border-color: black
-}
-.Nuke {
-    position: absolute;
-}
-.AI {
-  font-style: italic;
+  }
+  .Nuke {
+      position: relative;
+      top: 17px;
+      left: 1200px;
+      font-family: monospace;
+      color: black
+  }
+  .Nuke {
+    Border-color: white
+  }
+  .Nuke {
+  border-style: solid
+  }
+  .Nuke {
+    Border-color: black
+  }
+  .Nuke {
+      position: absolute;
+  }
+  .AI {
+    font-style: italic;
+  }
 }
 .AI {
   font-style: italic;
