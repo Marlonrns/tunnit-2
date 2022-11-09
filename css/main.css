@@ -1,0 +1,180 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: Arial;
+  font-size: 20px;
+}
+li {
+  list-style: none;
+}
+.right {
+  height: 100px
+}
+.lower {
+  width: 43%
+}
+.arrow {
+  width: 3px
+}
+.logon {
+  border-right: 500px;
+}
+ li {
+      width: 139px;
+      height: 77px;
+      float: right;
+      font-family: fantasy;
+}
+.arrow {
+  max-width: 3px;
+  height: auto;
+}
+.onetoarrow {
+  justify-content: space-between;
+  padding-left: 4000px;
+  position: relative;
+}
+.onetwo {
+  display: flex;
+}
+.readmorearrow {
+  height: 20px
+}
+.lower {
+  color: white
+}
+.lower {
+    right: 800px
+}
+.AI {
+  position: relative;
+top: 25px;
+left: 350px;
+color: black
+}
+.AI {
+  position: absolute
+}
+.Nuke {
+  position: relative;
+  top: 900px;
+  left: 560px
+}
+.Nuke {
+  border-color: white
+}
+.Nuke {
+  border-top-color: white
+}
+.Nuke {
+  position: absolute
+}
+.Global {
+  position: relative;
+top: 555px;
+left: 450px;
+color:white
+}
+.Global {
+  border-top-color: white
+}
+.Global {
+  position: absolute
+}
+.Lethal {
+  position: relative;
+top: 640px;
+left: 686px;
+}
+.Lethal {
+  border-color: white
+}
+.Lethal {
+  border-style: solid;
+}
+.Lethal {
+  position: absolute
+}
+.Lethal {
+  color: white
+}
+.right {
+position: relative;
+top: -765px;
+left: -485px;
+}
+.maintext {
+  position: relative;
+  top: -500px;
+  left: 340px;
+  }
+.maintext {
+    font-size: 100px
+}
+.mainstuff {
+  position: relative;
+  top: 70px;
+  left: 270px;
+  }
+.life {
+  position: relative;
+  top: 800px
+  left: 900px
+  color: white
+}
+.logon {
+  position: relative;
+  top: 100px
+}
+.logon {
+  left: 200px
+}
+.logon {
+  width: 1200px
+}
+.Nuke {
+  color: white
+}
+.search {
+      border-style: solid
+    }
+.search {
+  border-width: 1px
+}
+.maintext {
+  color: white
+}
+.maintext {
+  font-family: fantasy;
+}
+.Nuke {
+    position: relative;
+    top: 17px;
+    left: 1200px;
+    font-family: monospace;
+    color: black
+}
+.Nuke {
+  Border-color: white
+}
+.Nuke {
+border-style: solid
+}
+.Nuke {
+  Border-color: black
+}
+.Nuke {
+    position: absolute;
+}
+.AI {
+  font-style: italic;
+}
+.AI {
+  font-style: italic;
+}
+.AI {
+  font-style: italic;
+}
